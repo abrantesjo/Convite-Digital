@@ -10,7 +10,7 @@ export default function Pagina(props: PaginaProps) {
     <div
       className="
         flex flex-col items-center py-10 min-h-screen
-        bg-[url('/background.jpg')] bg-cover
+        bg-[url('/background.png')] bg-cover
       "
     >
       <Logo />
